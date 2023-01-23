@@ -1,0 +1,19 @@
+StartPoint:
+A
+End
+//comentariu skip
+Variables:
+A
+B
+End
+Terminals:
+0 //comentariu skip
+1
+#
+//comentariu skip
+End
+Rules:
+A->0A1
+A->B //comentariu skip
+B->#
+End
